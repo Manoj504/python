@@ -1,0 +1,8 @@
+a= int(input("enter a nimber"))
+sum=0
+temp=0
+while a >0:
+    rem=a%10
+    sum= sum+rem*rem*rem
+    num= num /10
+    
