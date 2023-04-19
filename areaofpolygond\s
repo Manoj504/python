@@ -1,0 +1,13 @@
+x=int(input("Enter the side of square")
+area = x**2
+print(area,"is the area of square")
+
+w=int(input("enter the width of rectangle")
+l=int(input("enter the lenth of rectangle")
+rectArea= w*l
+print("rectArea,"is the area of rectangle")
+
+b=int(input("Enter the base of the triangle")
+he=int(input("Enter the heaight of the triangle")
+triaArea= 0.5(b*he)
+print("triArea,"is the area of triangle")
