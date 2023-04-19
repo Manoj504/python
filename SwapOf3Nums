@@ -1,0 +1,13 @@
+a=int(input("Emter the a value"))
+b=int(input("Emter the b value"))
+c=int(input("Emter the c value"))
+if(n1>n2 ans n1>n3);
+    if(n2<n3):
+        temp=n1
+        n1=n2
+        n2=n3
+        n3=temp
+    else:
+        temp=n1
+        n1=n3
+        
