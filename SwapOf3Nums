@@ -10,4 +10,6 @@ if(n1>n2 ans n1>n3);
     else:
         temp=n1
         n1=n3
+        n3=temp
+ 
         
